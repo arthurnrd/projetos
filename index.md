@@ -16,8 +16,4 @@ Etapa 2
 ---
 Fazer predições de casos confirmados de covid 19, com banco de dados oferecido pela kaggle.
 
----
-food: Pizza
----
 
-<h1>{{ page.food }}</h1>
