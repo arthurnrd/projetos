@@ -20,8 +20,12 @@ Uma segunda medida a ser tomada seria a gestão/direcionamento dos atendimentos 
 
 Etapa 1 - uma applicação web, com um modelo de classificação de risco, e recomendações estilo Caren.
 
-Etapa 2 - ? (como fazer controle de equipamentos ?) 
-            ( é possível direcionar as pessoas para hospitais, ou depende de variáveis como planos de saúde etc ?)
+Etapa 2 - ? 
+
+#### Peculiaridades ?
+
+- como fazer controle de equipamentos ?
+- é possível direcionar as pessoas para hospitais, ou depende de variáveis como planos de saúde etc ?
 
 
 ---
@@ -73,10 +77,14 @@ Um exemplo ja feito reduziu o banco de dados para as seguintes caracteristicas:
 
 #### o Que ? 
 
-Relatar informações sobre o corona.
+Relatar informações por município sobre o corona (quantidades de casos suspeitos/ confirmados/ mortes/ recuperados).
+
+Projetar alguma relação 'quantidade de casos x capacidade dos hospitais' 
 
 #### Como?
 
-Qual o ojbetivo disso ? 
+#### Ojbetivo ? 
+ -Informativo ? 
+ -Auxiliar em tomadas de decisões ?
 
 
