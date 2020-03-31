@@ -10,13 +10,14 @@ Idéias sobre corona vírus
 
 #### O que?
 
-#### Etapa 1
+###### Etapa 1
 A primeira etapa consiste em uma aplicação (web ou mobile) que faça um auto-atendimento para os usuários, verificando sintomas e condições para que se possa definir medidas a serem tomadas pelo usuário para evitar que o mesmo se desloque a unidades de saúdes por motivos de menor importância, visando assim, evitar ou, ao menos, postergar a superlotação das unidades de saúdes.
 
-#### Etapa 2
+###### Etapa 2
 Uma segunda medida a ser tomada seria a gestão/direcionamento dos atendimentos nas unidades de saúde, mantendo um controle de leitos, médicos, itens e equipamentos necessários para exames e tratamentos, e a partir destes direcionar os pacientes para o hospital mais "disponível".
 
-Como?
+#### Como?
+
 Etapa 1 - uma applicação web, com um modelo de classificação de risco, e recomendações estilo Caren.
 
 Etapa 2 - ? (como fazer controle de equipamentos ?) 
@@ -47,20 +48,20 @@ Identificar diantes de vários casos suspeitos quais sao mais prováveis de sere
 - Os dados usados no modelo, disponibilizados do banco do hospital. Temos eles disponíveis em nossos bancos de dados ? 
 - Faríamos uma tela para preenche-los caso não tenha ou isso é inviável?
 
-Um exemplo ja feito reduzir o banco de dados para as seguintes caracteristicas:
+Um exemplo ja feito reduziu o banco de dados para as seguintes caracteristicas:
 
   [1] "hematócrito"                                    
  [2] "hemoglobina"                                    
  [3] "plaquetas"                                     
-  [4] "red_blood_cells"                               
+  [4] "células vermelhas"                               
   [5] "linfócitos"                                   
-  [6] "mean_corpuscular_hemoglobin_concentration_mchc"
+  [6] "concentração média de hemoglobina"
   [7] "leucócitos"                                    
   [8] "basófilos"                                     
-  [9] "mean_corpuscular_hemoglobin_mch"               
+  [9] "hemoglobina corpuscular média "               
  [10] "eosinófilos"                                   
- [11] "mean_corpuscular_volume_mcv"                   
- [12] "red_blood_cell_distribution_width_rdw"         
+ [11] "volume corpuscular médio"                   
+ [12] "largura de distribuição de glóbulos vermelhos"         
  [13] "monócitos"
 
 
