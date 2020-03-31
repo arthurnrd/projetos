@@ -22,6 +22,10 @@ Etapa 1 - uma applicação web, com um modelo de classificação de risco, e rec
 
 Etapa 2 - ? 
 
+#### Público ?
+
+- Todos interessados com suspeitas de vírus.
+
 #### Peculiaridades ?
 
 - como fazer controle de equipamentos ?
@@ -38,14 +42,17 @@ Etapa 2 - ?
 
 Fazer predições de casos confirmados de covid 19 sobre conjunto de casos suspeitos.
 
+#### Porque? Objetivo ? 
+
+Identificar diantes de vários casos suspeitos quais sao mais prováveis de serem confirmados, para assim designar atendimentos de forma mais eficaz pra quem tem mais necessidade.
+
 #### Como?
 
 A kaggle disponibilizou dados de pacientes sob suspeitas que tiveram amostras coletadas para teste de covid.
 Com esses dados é possivel criar um modelo de predição de casos confirmados.
 
-#### Objetivo ? 
-
-Identificar diantes de vários casos suspeitos quais sao mais prováveis de serem confirmados, para assim designar atendimentos de forma mais eficaz pra quem tem mais necessidade.
+#### Público ?
+- 
 
 #### Particularidades ? 
 
@@ -81,10 +88,16 @@ Relatar informações por município sobre o corona (quantidades de casos suspei
 
 Projetar alguma relação 'quantidade de casos x capacidade dos hospitais' 
 
-#### Como?
-
-#### Ojbetivo ? 
+#### Porque? Objetivo ? 
  -Informativo ? 
  -Auxiliar em tomadas de decisões ?
 
+
+#### Como?
+  
+  - 
+
+#### Público ?
+
+- Prefeitos/gestores de municípios? Para ter como base de auxílio a tomada de decisões preventivas ou paliativas. 
 
