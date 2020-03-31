@@ -49,19 +49,19 @@ Particularidades ?
 
 Um exemplo ja feito reduzir o banco de dados para as seguintes caracteristicas:
 
-##  [1] "hematócrito"                                    
+#  [1] "hematócrito"                                    
 ##  [2] "hemoglobina"                                    
-##  [3] "plaquetas"                                     
-##  [4] "red_blood_cells"                               
-##  [5] "linfócitos"                                   
-##  [6] "mean_corpuscular_hemoglobin_concentration_mchc"
-##  [7] "leucócitos"                                    
-##  [8] "basófilos"                                     
-##  [9] "mean_corpuscular_hemoglobin_mch"               
-## [10] "eosinófilos"                                   
-## [11] "mean_corpuscular_volume_mcv"                   
-## [12] "red_blood_cell_distribution_width_rdw"         
-## [13] "monócitos"
+###  [3] "plaquetas"                                     
+####  [4] "red_blood_cells"                               
+  [5] "linfócitos"                                   
+  [6] "mean_corpuscular_hemoglobin_concentration_mchc"
+  [7] "leucócitos"                                    
+  [8] "basófilos"                                     
+  [9] "mean_corpuscular_hemoglobin_mch"               
+ [10] "eosinófilos"                                   
+ [11] "mean_corpuscular_volume_mcv"                   
+ [12] "red_blood_cell_distribution_width_rdw"         
+ [13] "monócitos"
 
 
 ---
