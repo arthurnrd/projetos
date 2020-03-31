@@ -30,7 +30,6 @@ Etapa 2 - ? (como fazer controle de equipamentos ?)
 ---
 
 O Que ? 
-###
 
 Fazer predições de casos confirmados de covid 19 sobre conjunto de casos suspeitos.
 
@@ -40,12 +39,33 @@ A kaggle disponibilizou dados de pacientes sob suspeitas que tiveram amostras co
 Com esses dados é possivel criar um modelo de predição de casos confirmados.
 
 Objetivo ? 
+
 Identificar diantes de vários casos suspeitos quais sao mais prováveis de serem confirmados, para assim designar atendimentos de forma mais eficaz pra quem tem mais necessidade.
 
 Particularidades ? 
+
 - Os dados usados no modelo, disponibilizados do banco do hospital. Temos eles disponíveis em nossos bancos de dados ? 
 - Faríamos uma tela para preenche-los caso não tenha ou isso é inviável?
 
+Um exemplo ja feito reduzir o banco de dados para as seguintes caracteristicas:
+
+##  [1] "hematocrit"                                    
+##  [2] "hemoglobin"                                    
+##  [3] "platelets"                                     
+##  [4] "red_blood_cells"                               
+##  [5] "lymphocytes"                                   
+##  [6] "mean_corpuscular_hemoglobin_concentration_mchc"
+##  [7] "leukocytes"                                    
+##  [8] "basophils"                                     
+##  [9] "mean_corpuscular_hemoglobin_mch"               
+## [10] "eosinophils"                                   
+## [11] "mean_corpuscular_volume_mcv"                   
+## [12] "red_blood_cell_distribution_width_rdw"         
+## [13] "monocytes
+
+
+---
+---
 
 #3 CoronArbo
 ---
