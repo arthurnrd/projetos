@@ -33,4 +33,14 @@ Com esses dados é possivel criar um modelo de predição de casos confirmados.
 Qual o ojbetivo disso ? 
 Identificar diantes de vários casos suspeitos quais sao mais prováveis de serem confirmados, para assim designar atendimentos de forma mais eficaz pra quem tem mais necessidade?
 
+#3 CoronArbo
+---
+
+o Que ? 
+Relatar informações sobre o corona.
+
+Como?
+
+Qual o ojbetivo disso ? 
+
 
