@@ -95,7 +95,8 @@ Projetar alguma relação 'quantidade de casos x capacidade dos hospitais'
 
 #### Como?
   
-  - 
+  - Utilizando dados de atendimento/internações do Argos. ?
+  - Outros bancos possuem suspeitos ?
 
 #### Público ?
 
