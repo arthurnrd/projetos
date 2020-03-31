@@ -11,10 +11,16 @@ Idéias sobre corona vírus
 O que?
 
 Etapa 1
-A primeira etapa consiste em uma aplicação (web ou mobile) que faça um auto-atendimento para os usuários, verificando sintomas e condições para que possa definir medidas a serem tomadas pelo usuário para evitar que o mesmo se desloque a unidades de saúdes por motivos de menor importância, visando assim, evitar ou, ao menos, postergar a superlotação das unidades de saúdes.
+A primeira etapa consiste em uma aplicação (web ou mobile) que faça um auto-atendimento para os usuários, verificando sintomas e condições para que se possa definir medidas a serem tomadas pelo usuário para evitar que o mesmo se desloque a unidades de saúdes por motivos de menor importância, visando assim, evitar ou, ao menos, postergar a superlotação das unidades de saúdes.
 
 Etapa 2
 Uma segunda medida a ser tomada seria a gestão/direcionamento dos atendimentos nas unidades de saúde, mantendo um controle de leitos, médicos, itens e equipamentos necessários para exames e tratamentos, e a partir destes direcionar os pacientes para o hospital mais "disponível".
+
+Como?
+Etapa 1 - uma applicação web, com um modelo de classificação de risco, e recomendações estilo Caren.
+
+Etapa 2 - ? (como fazer controle de equipamentos ?) 
+            ( é possível direcionar as pessoas para hospitais, ou depende de variáveis como planos de saúde etc ?)
 
 
 ---
@@ -23,15 +29,20 @@ Uma segunda medida a ser tomada seria a gestão/direcionamento dos atendimentos 
 #2 Task 1 - Kaggle covid 19
 ---
 
-o Que ? 
+O Que ? 
 Fazer predições de casos confirmados de covid 19 sobre conjunto de casos suspeitos.
 
 Como?
-A kaggle disponibilizou dados de pacientes que tiveram amostras coletadas para teste de covid.
+A kaggle disponibilizou dados de pacientes sob suspeitas que tiveram amostras coletadas para teste de covid.
 Com esses dados é possivel criar um modelo de predição de casos confirmados.
 
-Qual o ojbetivo disso ? 
-Identificar diantes de vários casos suspeitos quais sao mais prováveis de serem confirmados, para assim designar atendimentos de forma mais eficaz pra quem tem mais necessidade?
+Objetivo ? 
+Identificar diantes de vários casos suspeitos quais sao mais prováveis de serem confirmados, para assim designar atendimentos de forma mais eficaz pra quem tem mais necessidade.
+
+Particularidades ? 
+- Os dados usados no modelo, disponibilizados do banco do hospital. Temos eles disponíveis em nossos bancos de dados ? 
+- Faríamos uma tela para preenche-los caso não tenha ou isso é inviável?
+
 
 #3 CoronArbo
 ---
