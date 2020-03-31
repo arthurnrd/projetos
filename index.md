@@ -26,7 +26,7 @@ Etapa 2 - ? (como fazer controle de equipamentos ?)
 ---
 ---
 
-#2 Task 1 - Kaggle covid 19
+#2 Predição de casos confirmados - Task 1 - Kaggle covid 19
 ---
 
 O Que ? 
