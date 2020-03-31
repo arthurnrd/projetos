@@ -30,9 +30,12 @@ Etapa 2 - ? (como fazer controle de equipamentos ?)
 ---
 
 O Que ? 
+###
+
 Fazer predições de casos confirmados de covid 19 sobre conjunto de casos suspeitos.
 
 Como?
+
 A kaggle disponibilizou dados de pacientes sob suspeitas que tiveram amostras coletadas para teste de covid.
 Com esses dados é possivel criar um modelo de predição de casos confirmados.
 
