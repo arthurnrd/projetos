@@ -11,10 +11,10 @@ Idéias sobre corona vírus
 #### O que?
 
 ###### Etapa 1
-A primeira etapa consiste em uma aplicação (web ou mobile) que faça um auto-atendimento para os usuários, verificando sintomas e condições para que se possa definir medidas a serem tomadas pelo usuário para evitar que o mesmo se desloque a unidades de saúdes por motivos de menor importância, visando assim, evitar ou, ao menos, postergar a superlotação das unidades de saúdes.
+A primeira etapa consiste em uma aplicação (web ou mobile) que faça um auto-atendimento para os usuários, verificando sintomas e condições para que se possa definir medidas a serem tomadas pelo usuário para evitar que o mesmo se desloque as unidades de saúde por motivos de menor importância, visando assim, evitar ou, ao menos, postergar a superlotação das unidades de saúdes.
 
 ###### Etapa 2
-Uma segunda medida a ser tomada seria a gestão/direcionamento dos atendimentos nas unidades de saúde, mantendo um controle de leitos, médicos, itens e equipamentos necessários para exames e tratamentos, e a partir destes direcionar os pacientes para o hospital mais "disponível".
+Uma segunda medida a ser tomada seria a gestão/direcionamento dos atendimentos nas unidades de saúde, mantendo um controle de leitos, médicos, itens e equipamentos necessários para exames e tratamentos, e a partir destes direcionar os pacientes para o hospital com maior disponibilidade.
 
 #### Como?
 
